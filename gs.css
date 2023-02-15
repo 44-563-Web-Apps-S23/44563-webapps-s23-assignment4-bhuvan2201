@@ -26,6 +26,7 @@
 th,td{
     border:1px solid #ccc;
     padding:8px;
+    margin: 25px 50px 75px;
     text-align:left;
 }
 th{
@@ -39,9 +40,11 @@ tbody tr:nth-child(even){
 }
 .ROSA:hover{
     text-shadow:3px 3px rgb(233,15,19);
-    filter: blur(2px);
+    border:solid 3px royalblue;
+    filter: blur(1px);
 }
 .FRAU_LINDEMANN:hover{
     text-shadow: 3px 3px rgb(240, 135, 6);
-    filter: blur(2px);
+    border:solid 3px royalblue;
+    filter: blur(1px);
 }
