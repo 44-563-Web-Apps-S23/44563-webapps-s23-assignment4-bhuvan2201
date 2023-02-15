@@ -39,9 +39,9 @@ tbody tr:nth-child(even){
 }
 .ROSA:hover{
     text-shadow:3px 3px rgb(233,15,19);
-    filter: blur(1px);
+    filter: blur(2px);
 }
 .FRAU_LINDEMANN:hover{
     text-shadow: 3px 3px rgb(240, 135, 6);
-    filter: blur(1px);
+    filter: blur(2px);
 }
